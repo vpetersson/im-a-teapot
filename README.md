@@ -2,7 +2,7 @@
 
 I always wanted to do something with HTTP [Status Code 418](https://httpstatuses.com/418) so I wrote this little script and attached a Raspberry Pi Zero to my tea pot.
 
-[[https://github.com/vpetersson/im-a-teapot/blob/master/img/teapot_in_action.jpg|alt=Im a Teapot]]
+[[https://github.com/vpetersson/im-a-teapot/blob/master/img/teapot_in_action.jpg]]
 
 ## Server
 
