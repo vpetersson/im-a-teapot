@@ -4,6 +4,8 @@ I always wanted to do something with HTTP [Status Code 418](https://httpstatuses
 
 ![I'm a teapot](https://raw.githubusercontent.com/vpetersson/im-a-teapot/master/img/teapot_in_action.jpg)
 
+(Yes, I know that's technically speaking a kettle, but the closest thing I had :)
+
 ## Server
 
 ```
