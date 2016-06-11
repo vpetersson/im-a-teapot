@@ -15,14 +15,14 @@ $ python app.py
 ```
 $ pip install reqests
 $ python
->>> r = requests.post('http://127.0.0.1:8080/brew-tea')
+>>> r = requests.post('http://127.0.0.1:8888/brew-tea')
 >>> r
  <Response [201]>
 
 >>> r.content
 'Tea coming right up...'
 
->>> r = requests.post('http://127.0.0.1:8080/brew-coffee')
+>>> r = requests.post('http://127.0.0.1:8888/brew-coffee')
 >>> r
 <Response [418]>
 
