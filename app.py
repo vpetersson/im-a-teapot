@@ -15,7 +15,7 @@ def brew_coffee():
 
 @app.post('/brew-tea')
 def brew_tea():
-    return raise_error(201, "Tea coming right up....")
+    return raise_error(201, "Tea coming right up...")
 
 
 @app.route('/')

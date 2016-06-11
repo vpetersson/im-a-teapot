@@ -20,7 +20,7 @@ $ python
  <Response [201]>
 
 >>> r.content
-'Tea coming right up....'
+'Tea coming right up...'
 
 >>> r = requests.post('http://127.0.0.1:8080/brew-coffee')
 >>> r
