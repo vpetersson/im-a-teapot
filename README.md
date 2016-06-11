@@ -17,7 +17,7 @@ $ pip install reqests
 $ python
 >>> r = requests.post('http://127.0.0.1:8888/brew-tea')
 >>> r
- <Response [201]>
+<Response [201]>
 
 >>> r.content
 'Tea coming right up...'
